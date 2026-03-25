@@ -44,23 +44,6 @@ const Index = () => {
           MY BIO
         </h1>
 
-        {/* Code block */}
-        <div className="code-block">
-          <div className="code-header">
-            <span className="dot dot-r" /><span className="dot dot-y" /><span className="dot dot-g" />
-            <span className="code-fname">scale.profile.json</span>
-          </div>
-          <pre className="code-body">
-<span className="cb">{"{"}</span>{"\n"}
-{"  "}<span className="ck">"name"</span><span className="cc">:</span> <span className="cs">"scale"</span><span className="cm">,</span>{"\n"}
-{"  "}<span className="ck">"status"</span><span className="cc">:</span> <span className="cs">"пострадавший игрок"</span><span className="cm">,</span>{"\n"}
-{"  "}<span className="ck">"age"</span><span className="cc">:</span> <span className="cn">23</span><span className="cmt">  {"// лет"}</span><span className="cm">,</span>{"\n"}
-{"  "}<span className="ck">"geo"</span><span className="cc">:</span> <span className="cs">"Америка"</span><span className="cm">,</span>{"\n"}
-{"  "}<span className="ck">"hobby"</span><span className="cc">:</span> <span className="cs">"убийство"</span>{"\n"}
-<span className="cb">{"}"}</span>
-          </pre>
-        </div>
-
         {/* Мирный */}
         <div className="peaceful">
           <span className="p-dot" /><span className="p-text">мирный</span><span className="p-dot" />
